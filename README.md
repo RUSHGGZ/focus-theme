@@ -1,8 +1,11 @@
 # Min theme
-A dark and minimalist color theme for IntelliJ IDEA, created to bring the clean, low-contrast aesthetic of the "Min Dark" theme from Visual Studio Code to your development environment.
+A minimalist color theme for IntelliJ IDEA, created to bring the clean, low-contrast aesthetic of the "Min Dark" and "Min Light" theme from Visual Studio Code to your development environment.
 
-<img width="751" height="622" alt="image" src="https://github.com/user-attachments/assets/82f16c89-94a6-4b25-b37d-d47e7914562b" />
+![Min dark](https://github.com/user-attachments/assets/82f16c89-94a6-4b25-b37d-d47e7914562b)
+>Min Dark
 
+![Min Light](https://github.com/user-attachments/assets/c8e36f08-61ed-4f79-8ac5-fb54dedd5168)
+>Min Light
 
 # Installation
 
@@ -15,4 +18,5 @@ A dark and minimalist color theme for IntelliJ IDEA, created to bring the clean,
 # Acknowledgments
 
   This theme is an adaptation of the "Min Theme( dark )" color theme for Visual Studio Code. All credit goes to the original creator.
+
 
