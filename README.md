@@ -13,10 +13,11 @@ A minimalist color theme for IntelliJ IDEA, created to bring the clean, low-cont
 2. Look for the Editor color scheme dropdown menu. It's the one that currently shows your current theme.
 3. Next to that dropdown, you'll see a small gear icon (⚙️). Click on it.
 4. In the menu that appears, hover your mouse over Export to see the option to export the theme.
-5. Click to import color schema `.icls` select `Min-dark.icls` and aply settings.
+5. Click to import color schema `.icls` select `Min-dark.icls` or `Min-light.icls` and aply settings.
 
 # Acknowledgments
 
-  This theme is an adaptation of the "Min Theme( dark )" color theme for Visual Studio Code. All credit goes to the original creator.
+  This theme is an adaptation of the "Min Theme" color theme for Visual Studio Code. All credit goes to the original creator.
+
 
 
