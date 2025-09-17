@@ -17,10 +17,14 @@
 Focus Theme comes in two carefully crafted variants:
 
 ### Focus Dark
-A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
+<img width="751" height="622" alt="Screenshot 2025-09-04 023234" src="https://github.com/user-attachments/assets/564da9f2-4bda-44be-a56a-c5ac1c0eca88" />
+
+>A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
 
 ### Focus Light
-A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
+<img width="788" height="611" alt="Screenshot 2025-09-16 212203" src="https://github.com/user-attachments/assets/fcad71cf-ea75-4758-9178-fa3a30665a65" />
+
+>A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
 
 ## Features
 
@@ -66,3 +70,4 @@ Feel free to open an issue or submit a pull request.
 ## License
 
 [MIT License](./LICENSE) © Focus Theme
+
