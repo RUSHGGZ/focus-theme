@@ -1,23 +1,68 @@
-# Min theme
-A minimalist color theme for IntelliJ IDEA, created to bring the clean, low-contrast aesthetic of the "Min Dark" and "Min Light" theme from Visual Studio Code to your development environment.
+# Focus Theme
 
-![Min dark](https://github.com/user-attachments/assets/82f16c89-94a6-4b25-b37d-d47e7914562b)
->Min Dark
+> A minimalist theme for [JetBrains IDEs](https://www.jetbrains.com), designed to enhance focus and reduce visual distractions while coding.
 
-![Min Light](https://github.com/user-attachments/assets/c8e36f08-61ed-4f79-8ac5-fb54dedd5168)
->Min Light
+## Install
 
-# Installation
+### Installation Steps
 
-1. Got to the **Settings > Appearance & Behavior > Appearance**.
+1. Go to **Settings > Appearance & Behavior > Appearance**.
 2. Look for the Editor color scheme dropdown menu. It's the one that currently shows your current theme.
 3. Next to that dropdown, you'll see a small gear icon (⚙️). Click on it.
 4. In the menu that appears, hover your mouse over Export to see the option to export the theme.
-5. Click to import color schema `.icls` select `Min-dark.icls` or `Min-light.icls` and aply settings.
+5. Click to import color schema `.icls` select `Focus-dark.icls` or `Focus-light.icls` and apply settings.
 
-# Acknowledgments
+## Variants
 
-  This theme is an adaptation of the "Min Theme" color theme for Visual Studio Code. All credit goes to the original creator.
+Focus Theme comes in two carefully crafted variants:
 
+### Focus Dark
+A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
 
+### Focus Light
+A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
 
+## Features
+
+- **Minimalist Design**: Clean interface that eliminates visual clutter
+- **High Readability**: Carefully chosen colors that ensure excellent code readability
+- **Low Contrast**: Gentle on the eyes for extended coding sessions
+- **Consistent Syntax Highlighting**: Well-balanced color palette for different code elements
+
+## Accessibility
+
+The colors maintain proper contrast ratios to ensure accessibility and readability for all users.
+
+## Contributing
+
+We welcome contributions! This project is open for community contributions. Whether you want to:
+
+- Report bugs
+- Suggest improvements
+- Add new features
+- Create variants for other editors
+
+Feel free to open an issue or submit a pull request.
+
+## Contributors
+
+| [![martinzdev](https://github.com/martinzdev.png?size=100)](https://github.com/martinzdev) | [![gustacamara](https://github.com/gustacamara.png?size=100)](https://github.com/gustacamara) |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [martinzdev](https://github.com/martinzdev)                                                 | [gustacamara](https://github.com/gustacamara)                                                 |
+
+## Community
+
+- **GitHub Issues** - Best for reporting bugs and requesting features
+- **GitHub Discussions** - Best for asking questions and community discussions
+
+## TODO
+
+- [ ] **Plugin Development**: Create a complete IntelliJ IDEA plugin for Focus Theme that includes:
+  - UI theme integration (not just color schema)
+  - Custom icons and interface elements
+  - Unified theming across all IDE components
+  - Easy one-click installation from JetBrains Marketplace
+
+## License
+
+[MIT License](./LICENSE) © Focus Theme
