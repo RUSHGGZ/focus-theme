@@ -1102,7 +1102,12 @@
         </option>
         <option name="JSON.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="f97583" />
+                <option name="FOREGROUND" value="79b8ff" />
+            </value>
+        </option>
+        <option name="JSON.PROPERTY_KEY">
+            <value>
+                <option name="FOREGROUND" value="f8f8f8" />
             </value>
         </option>
         <option name="JUPYTER_SELECTED_CELL">
