@@ -1,6 +1,26 @@
+<div align="center">
+
+<img width="140" height="140" alt="focus-theme-logo-white" src="https://github.com/user-attachments/assets/c0449636-b304-4094-8bc5-fffd85b642e4" />.
+
 # Focus Theme
 
-> A minimalist theme for [JetBrains IDEs](https://www.jetbrains.com), designed to enhance focus and reduce visual distractions while coding.
+A minimalist theme for [JetBrains IDEs](https://www.jetbrains.com), designed to enhance focus and reduce visual distractions while coding.
+
+### Focus Dark
+<img width="1919" height="1079" alt="Screenshot 2025-09-17 204847" src="https://github.com/user-attachments/assets/960369e4-8983-46a5-82c9-68f1d6ebaa1c" />
+
+
+A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
+
+### Focus Light
+<img width="1919" height="1079" alt="Screenshot 2025-09-17 204906" src="https://github.com/user-attachments/assets/cdb503f3-2adf-4c67-bcfd-1a888f88af79" />
+
+
+A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
+
+</div>
+
+
 
 ## Install
 
@@ -12,21 +32,6 @@
 5. Restart your IDE
 6. Go to **Settings** → **Appearance & Behavior** → **Appearance** → **Theme** and select Focus Theme Dark or Focus Theme Light/Light Header
 
-## Variants
-
-Focus Theme comes in two carefully crafted variants:
-
-### Focus Dark
-<img width="1919" height="1079" alt="Screenshot 2025-09-17 204847" src="https://github.com/user-attachments/assets/960369e4-8983-46a5-82c9-68f1d6ebaa1c" />
-
-
->A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
-
-### Focus Light
-<img width="1919" height="1079" alt="Screenshot 2025-09-17 204906" src="https://github.com/user-attachments/assets/cdb503f3-2adf-4c67-bcfd-1a888f88af79" />
-
-
->A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
 
 ## Contributing
 
