@@ -1,0 +1,51 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>Focus_Theme</id>
+    <version>1.0.0</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
+    <name>Focus Theme</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor url="https://www.github.com/rushggz">RUSH</vendor>
+
+    <idea-version since-build="251"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
+    <description><![CDATA[
+        <strong>Focus Theme</strong> - A minimalist theme designed to enhance your coding focus and reduce visual distractions.<br><br>
+
+        <strong>Features:</strong><br>
+        • <strong>Minimalist Design</strong> - Clean interface that eliminates visual clutter<br>
+        • <strong>High Readability</strong> - Carefully chosen colors for excellent code readability<br>
+        • <strong>Low Contrast</strong> - Gentle on the eyes during extended coding sessions<br>
+        • <strong>Consistent Syntax Highlighting</strong> - Well-balanced color palette for all code elements<br>
+        • <strong>Accessibility Focused</strong> - Proper contrast ratios for all users<br><br>
+
+        <strong>Available Variants:</strong><br>
+        • <strong>Focus Dark</strong> - Clean, low-contrast dark theme that reduces eye strain<br>
+        • <strong>Focus Light</strong> - Bright, minimalist light theme with subtle contrasts<br><br>
+
+        Perfect for developers who value clean aesthetics and want to maintain focus during long coding sessions without sacrificing readability.
+    ]]></description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes><![CDATA[
+        Initial release of the theme.
+    ]]></change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="focus_theme_dark" path="themes/dark/dark.theme.json"/>
+        <themeProvider id="focus_theme_light" path="themes/light/light.theme.json"/>
+        <themeProvider id="focus_theme_light_header" path="themes/light/light-header.theme.json"/>
+    </extensions>
+</idea-plugin>
