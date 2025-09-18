@@ -229,6 +229,16 @@
         <option name="INSTANCE_FIELD_ATTRIBUTES">
             <value />
         </option>
+        <option name="JSON.KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="1976d2" />
+            </value>
+        </option>
+        <option name="JSON.PROPERTY_KEY">
+            <value>
+                <option name="FOREGROUND" value="d32f2f" />
+            </value>
+        </option>
         <option name="MARKDOWN_CODE_BLOCK">
             <value>
                 <option name="FOREGROUND" value="2b5581" />

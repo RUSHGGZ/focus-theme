@@ -17,8 +17,20 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Enter short description for your theme here.<br>
-        <em>most HTML tags may be used</em>
+        <strong>Focus Theme</strong> - A minimalist theme designed to enhance your coding focus and reduce visual distractions.<br><br>
+
+        <strong>Features:</strong><br>
+        • <strong>Minimalist Design</strong> - Clean interface that eliminates visual clutter<br>
+        • <strong>High Readability</strong> - Carefully chosen colors for excellent code readability<br>
+        • <strong>Low Contrast</strong> - Gentle on the eyes during extended coding sessions<br>
+        • <strong>Consistent Syntax Highlighting</strong> - Well-balanced color palette for all code elements<br>
+        • <strong>Accessibility Focused</strong> - Proper contrast ratios for all users<br><br>
+
+        <strong>Available Variants:</strong><br>
+        • <strong>Focus Dark</strong> - Clean, low-contrast dark theme that reduces eye strain<br>
+        • <strong>Focus Light</strong> - Bright, minimalist light theme with subtle contrasts<br><br>
+
+        Perfect for developers who value clean aesthetics and want to maintain focus during long coding sessions without sacrificing readability.
     ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
