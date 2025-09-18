@@ -1,7 +1,7 @@
 ﻿<scheme name="Focus Theme Light" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.2.1.0.0</property>
+        <property name="ideVersion">2024.2.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="ACTIVITY_BAR_BACKGROUND" value="F6F6F6" />
