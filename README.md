@@ -5,12 +5,12 @@
 ## Install
 
 ### Installation Steps
-
-1. Go to **Settings > Appearance & Behavior > Appearance**.
-2. Look for the Editor color scheme dropdown menu. It's the one that currently shows your current theme.
-3. Next to that dropdown, you'll see a small gear icon (⚙️). Click on it.
-4. In the menu that appears, hover your mouse over Export to see the option to export the theme.
-5. Click to import color schema `.icls` select `Focus-dark.icls` or `Focus-light.icls` and apply settings.
+1. Download `FocusTheme.jar` from [REALEASES](https://github.com/RUSHGGZ/focus-theme/releases)
+2. Open your JetBrains IDE (IntelliJ IDEA, Rider, PyCharm, etc.)
+3. Go to **Settings** → **Plugins** → **⚙️ Gear Icon** → **Install Plugin from Disk**
+4. Select the downloaded `FocusTheme.jar` file
+5. Restart your IDE
+6. Go to **Settings** → **Appearance & Behavior** → **Appearance** → **Theme** and select Focus Theme Dark or Focus Theme Light/Light Header
 
 ## Variants
 
@@ -28,17 +28,6 @@ Focus Theme comes in two carefully crafted variants:
 
 >A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
 
-## Features
-
-- **Minimalist Design**: Clean interface that eliminates visual clutter
-- **High Readability**: Carefully chosen colors that ensure excellent code readability
-- **Low Contrast**: Gentle on the eyes for extended coding sessions
-- **Consistent Syntax Highlighting**: Well-balanced color palette for different code elements
-
-## Accessibility
-
-The colors maintain proper contrast ratios to ensure accessibility and readability for all users.
-
 ## Contributing
 
 We welcome contributions! This project is open for community contributions. Whether you want to:
@@ -55,19 +44,6 @@ Feel free to open an issue or submit a pull request.
 | [![martinzdev](https://github.com/martinzdev.png?size=100)](https://github.com/martinzdev) | [![gustacamara](https://github.com/gustacamara.png?size=100)](https://github.com/gustacamara) |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [martinzdev](https://github.com/martinzdev)                                                 | [gustacamara](https://github.com/gustacamara)                                                 |
-
-## Community
-
-- **GitHub Issues** - Best for reporting bugs and requesting features
-- **GitHub Discussions** - Best for asking questions and community discussions
-
-## TODO
-
-- [ ] **Plugin Development**: Create a complete IntelliJ IDEA plugin for Focus Theme that includes:
-  - UI theme integration (not just color schema)
-  - Custom icons and interface elements
-  - Unified theming across all IDE components
-  - Easy one-click installation from JetBrains Marketplace
 
 ## License
 
