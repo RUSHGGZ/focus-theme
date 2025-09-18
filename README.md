@@ -7,16 +7,14 @@
 A minimalist theme for [JetBrains IDEs](https://www.jetbrains.com), designed to enhance focus and reduce visual distractions while coding.
 
 ### Focus Dark
-<img width="1919" height="1079" alt="Screenshot 2025-09-17 204847" src="https://github.com/user-attachments/assets/960369e4-8983-46a5-82c9-68f1d6ebaa1c" />
-
-
-A clean, low-contrast dark theme that reduces eye strain during long coding sessions while maintaining excellent readability.
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 012208" src="https://github.com/user-attachments/assets/fcead6de-e931-40b9-a858-fa058b5f1e15" />
 
 ### Focus Light
-<img width="1919" height="1079" alt="Screenshot 2025-09-17 204906" src="https://github.com/user-attachments/assets/cdb503f3-2adf-4c67-bcfd-1a888f88af79" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 012319" src="https://github.com/user-attachments/assets/3acf6472-ddf0-4e7b-af5a-cb2a9bfcd93a" />
 
+### Focus Light Header
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 012258" src="https://github.com/user-attachments/assets/ed5455d8-179a-4822-9110-f58d08915a97" />
 
-A bright, minimalist light theme with subtle contrasts that provides clarity without being harsh on the eyes.
 
 </div>
 
