@@ -1,7 +1,7 @@
 ﻿<scheme name="Focus Theme Dark" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.2.1.0.0</property>
+        <property name="ideVersion">2024.2.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="3A632A" />
