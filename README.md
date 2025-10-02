@@ -50,4 +50,4 @@ Feel free to open an issue or submit a pull request.
 
 ## License
 
-[MIT License](./LICENSE) © Focus Theme
+[MIT License](./LICENCE.md) © Focus Theme
